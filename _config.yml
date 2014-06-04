@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: wangxt.com
+title: xtwang2012.github.io
 url: xtwang2012.github.io
 feed: /atom.xml
 author_info: <a href="xtwang2012.github.io">wangxt</a>
