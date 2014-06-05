@@ -44,7 +44,9 @@ Jekyll的配置文件。Jekyll可以在文件中配置，也可以作为命令�
 
 存放Jekyll完成转换后最终生成的文档。不必关心。可以讲这个目录放进.gitignore文件中。
 
-##添加[Disqus](http://disqus.com/)管理评论
+##添加Disqus管理评论
+
+注册[Disqus](http://disqus.com/)账号。选择Universal Code，将代码复制到模版中。
 
 
 
