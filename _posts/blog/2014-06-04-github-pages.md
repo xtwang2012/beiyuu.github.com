@@ -9,7 +9,7 @@ category: blog
 
 Jekyll是简洁的，特别是针对博客平台的静态网站生成器，它使用目录作为网站布局的基本框架，并可以在上面运行标记语言（Textile、Markdown或者Liquid），最终生成一个完整的静态web站点。
 
-基本的Jekyll结构如下：
+###基本的Jekyll结构
 
     |-- _config.yml
     |-- _includes
@@ -24,7 +24,7 @@ Jekyll是简洁的，特别是针对博客平台的静态网站生成器，它�
 
 每部分功能的详述：
 
-###_config.yml
+####_config.yml
 
 Jekyll的配置文件。
 
