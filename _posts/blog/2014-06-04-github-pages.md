@@ -23,3 +23,7 @@ Jekyll是简洁的，特别是针对博客平台的静态网站生成器，它�
     `-- index.html
 
 
+
+
+##参考文献
+[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门]http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
