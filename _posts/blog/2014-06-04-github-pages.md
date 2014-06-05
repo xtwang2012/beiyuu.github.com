@@ -64,12 +64,14 @@ Jekyll的配置文件。Jekyll可以在文件中配置，也可以作为命令�
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
+##配置和使用github
+
+
 
 
 ##参考文献
 
-[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
-
-[Markdown语法](http://zh.wikipedia.org/wiki/Markdown#.E5.88.97.E8.A1.A8)
-
-[jekyll](http://jekyllcn.com)
+[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)  
+[Markdown语法](http://zh.wikipedia.org/wiki/Markdown#.E5.88.97.E8.A1.A8)  
+[jekyll](http://jekyllcn.com)  
+[Github Page Basics](https://help.github.com/categories/20/articles)
