@@ -109,7 +109,23 @@ Jekyll的配置文件。Jekyll可以在文件中配置，也可以作为命令�
     
 ##常用的git命令
 
+更新github中的文件
 
+    git clone 地址
+    git add .     //增加全部文件
+    git status     //检查git状态
+    git commit -am "message"   //提交
+    git push origin master   //将本地master分支放到远端
+
+
+删除github某repository上的内容
+
+    cd [repository/files]
+    git rm ...
+
+同步远端内容到本地
+
+    git pull
 
 ##参考文献
 
