@@ -135,4 +135,5 @@ create new repository，项目名称为github账户名.github.io。创建好之�
 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)  
 [Markdown语法](http://zh.wikipedia.org/wiki/Markdown#.E5.88.97.E8.A1.A8)  
 [jekyll](http://jekyllcn.com)  
-[Github Page Basics](https://help.github.com/categories/20/articles)
+[Github Page Basics](https://help.github.com/categories/20/articles)  
+[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)
