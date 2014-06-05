@@ -76,11 +76,11 @@ create new repository，项目名称为github账户名.github.io。创建好之�
 
 打开Git Bash设置并与github连接。
 
-* 检查SSH Keys的设置
+1、检查SSH Keys的设置
 
     $ cd ~/.ssh
 
-* 如果存在key文件，需要备份和溢出原来的key
+2、如果存在key文件，需要备份和溢出原来的key
 
     $ ls
     config  id_rsa  id_rsa.pub  known_hosts
@@ -88,23 +88,23 @@ create new repository，项目名称为github账户名.github.io。创建好之�
     $ cp id_rsa* key_backup
     $ rm id_rsa*
 
-* 生成新的SSH key
+3、生成新的SSH key
 
     $ ssh-keygen -t rsa -C "邮件地址"
 
 然后按照要求输入两次密码即可成功设置。
 
-* 添加key到github
+4、添加key到github
 
 用文本编辑工具打开id_rsa.pub文件，复制全部内容。然后在GitHub主页上点击Account Settings按钮，选择SSH Keys选项，把复制的内容粘贴进去，点击Add key即可。
 
-* 测试是否连接
+5、测试是否连接
 
 输入以下代码，然后输入yes。
 
     $ ssh -T git@github.com
 
-* 设置账号信息以便以后提交时使用
+6、设置账号信息以便以后提交时使用
 
     $ git config --global user.name "name"
     $ git config --global user.email "your_email"
