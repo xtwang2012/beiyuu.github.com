@@ -46,7 +46,23 @@ Jekyll的配置文件。Jekyll可以在文件中配置，也可以作为命令�
 
 ##添加Disqus管理评论
 
-注册[Disqus](http://disqus.com/)账号。选择Universal Code，将代码复制到模版中。
+注册[Disqus](http://disqus.com/)账号。选择Universal Code，将代码复制到模版中。复制到文章框架中即可。
+
+    <div id="disqus_thread"></div>
+         <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'wangxt'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+        </script>
+    
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
 
