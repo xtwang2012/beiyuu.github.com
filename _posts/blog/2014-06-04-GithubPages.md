@@ -32,7 +32,7 @@ Jekyll的配置文件。Jekyll可以在文件中配置，也可以作为命令�
 
 ####_includes
 
-可以用来存放一些可复用的模块，这些模块可以使用Liquid标签调用。例如：可以用这个标签来把文件_includes/file.ext 包含进来。
+可以用来存放一些可复用的模块，这些模块可以使用Liquid标签调用。例如：可以用这个标签{ % include file.ext % } 来把文件_includes/file.ext 包含进来。
 
 
 
