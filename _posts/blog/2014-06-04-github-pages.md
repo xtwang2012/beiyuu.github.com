@@ -67,7 +67,7 @@ Jekyll的配置文件。Jekyll可以在文件中配置，也可以作为命令�
 ##使用github pages建立博客
 
 create new repository，项目名称为github账户名.github.io。创建好之后点击settings进入项目管理页配置。之后提交一个index.html文件，push到GitHub的master分支。第一次页面生效需要一些时间，大概10分钟左右。即创建了一个page，参见
-[GitHub Pages](https://pages.github.com/)官方文档。网站可以使用前面所说的Jekll进行托管。
+[GitHub Pages](https://pages.github.com/)官方文档。网站可以使用前面所说的Jekyll进行托管。
 
 ##使用git进行版本管理
 
@@ -136,4 +136,5 @@ create new repository，项目名称为github账户名.github.io。创建好之�
 [Markdown语法](http://zh.wikipedia.org/wiki/Markdown#.E5.88.97.E8.A1.A8)  
 [jekyll](http://jekyllcn.com)  
 [Github Page Basics](https://help.github.com/categories/20/articles)  
-[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)
+[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)  
+[Jekyll安装配置](http://www.soimort.org/posts/101/)
