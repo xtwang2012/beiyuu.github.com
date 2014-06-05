@@ -49,6 +49,9 @@ Jekyll的配置文件。Jekyll可以在文件中配置，也可以作为命令�
 
 
 ##参考文献
+
 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+
 [Markdown语法](http://zh.wikipedia.org/wiki/Markdown#.E5.88.97.E8.A1.A8)
+
 [jekyll](http://jekyllcn.com)
