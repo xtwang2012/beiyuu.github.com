@@ -137,4 +137,5 @@ create new repository，项目名称为github账户名.github.io。创建好之�
 [jekyll](http://jekyllcn.com)  
 [Github Page Basics](https://help.github.com/categories/20/articles)  
 [使用Github Pages建独立博客](http://beiyuu.com/github-pages/)  
-[Jekyll安装配置](http://www.soimort.org/posts/101/)
+[Jekyll安装配置](http://www.soimort.org/posts/101/)  
+[如何搭建一个独立的博客](http://cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/)
