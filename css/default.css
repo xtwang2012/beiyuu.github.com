@@ -92,7 +92,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
       background-image:url(http://image11.m1905.cn/uploadfile/2011/0211/20110211055628846.jpg);
 }
 .project .aside{
-    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')
+    /*background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')*/
+    background-image:url(http://images.missyuan.com/attachments/day_110502/20110502_ccf681c91ae127b1ad6b247970p752gl.jpg);
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
