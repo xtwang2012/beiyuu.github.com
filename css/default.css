@@ -89,11 +89,11 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 }
 .opinion .aside{
     /*background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);*/
-      background-image:url(http://image11.m1905.cn/uploadfile/2011/0211/20110211055628846.jpg);
+      background-image:url(/images/img/opinion.jpg);
 }
 .project .aside{
     /*background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')*/
-    background-image:url(http://images.missyuan.com/attachments/day_110502/20110502_ccf681c91ae127b1ad6b247970p752gl.jpg);
+    background-image:url(/images/img/project.jpg);
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
