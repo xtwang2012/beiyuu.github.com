@@ -25,10 +25,15 @@ category: blog
     }'
 	
 number_of_shards：设置分片数量
+
 number_of_replicas：设置当前索引副本数量
+
 block.read_only：若设置为true，当前索引只允许读，不允许写或者更新
+
 block.read：若设置为true，禁止读取
+
 block.write：若设置为true，禁止写
+
 block.metadata：若设置为true，禁止对metadata进行操作
 
 ####获取索引较为详细的配置信息
@@ -48,9 +53,13 @@ block.metadata：若设置为true，禁止对metadata进行操作
     curl -XGET 'http://localhost:9200/mytest/_status'
 	
 doc：被索引文档的信息，count描述索引中文档的数量
+
 stores：索引的大小
+
 indexing：索引操作信息
+
 get：实时获取操作信息
+
 search：搜索操作信息
 
 ####2、通过mapping映像配置索引
@@ -157,7 +166,9 @@ elasticsearch在使用时，不指定映像，会自动根据数据格式定义�
     curl -XGET 'http://localhost:9200/myfirstindex/share/1?pretty&fields=location'
 
 pretty表示返回的结果中显示缩进，以方便阅读
+
 _source=false表示不显示source的内容
+
 fields=location只显示location的内容
 
 删除文档中的信息
